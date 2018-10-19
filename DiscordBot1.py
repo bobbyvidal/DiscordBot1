@@ -123,19 +123,6 @@ async def getWord(ctx):
 
 
 
-
-
-
-
-
-
-
-
-
-bot.run('NDcwNjQ1MTY5MDEyODY3MTEy.DmEMZw.hL8fDUoWR135FuB7E7w_oKygn2c')
-
-
-
 # fn team ids 131100075945492480, 232609309467344896, 134874474087579648, 135959846565445632
 # test server number = 470644476340338690, channel number = 470644476340338696
 # main server number = 478044952920588288 , channel number = 478044952920588291
